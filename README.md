@@ -1,3 +1,6 @@
+##### GREAT NEWS #####
+THIS APP IS NOW ONLINE ! CHECK IT OUT : https://cards-amber-eight.vercel.app
+
 # Cards
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
